@@ -1,4 +1,4 @@
-# algorithms-lab
+# Data Structures and Algorithms II Lab
 
 C++ solutions for the Data Structures and Algorithms II sessional (lab) course of the B.Sc. in Computer Science and Engineering at BAUET, written between December 2023 and early 2024. The lab sheets (`_lab.txt`) list the course as *CSE 2214 – Data Structures and Algorithms-II Sessional* (the Lab 1 sheet says CSE 2213). The labs start with the C++ STL (`vector`, `set`, `stack`, `map`) and move on to sorting, graph traversal, shortest paths, minimum spanning trees, and greedy and dynamic programming algorithms. Each program reads its input from standard input and writes to standard output.
 
